@@ -4,6 +4,7 @@
 
 ## Tools
 * [Get Oracle Analytics Desktop](https://www.oracle.com/solutions/analytics/analytics-desktop/oracle-analytics-desktop.html) - oracle.com
+* [Install Machine Learning and Advanced Analytics](https://docs.oracle.com/en/middleware/bi/analytics-desktop/bidvd/get-started-oracle-analytics-desktop.html#GUID-003FB6AC-91EA-49AC-8778-F42967593962)
 
 ## Learn
 * [User’s Guide for Oracle Analytics Desktop](https://docs.oracle.com/en/middleware/bi/analytics-desktop/bidvd/index.html) - docs.oracle.com
