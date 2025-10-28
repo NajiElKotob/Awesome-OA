@@ -1,4 +1,4 @@
-# Awesome Oracle Analytics Desktop (OAD)
+# Awesome Oracle Analytics (OA)
 
 
 
