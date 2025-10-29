@@ -11,8 +11,10 @@
   - [Oracle Analytics Examples](https://www.oracle.com/analytics/data-visualization/examples/)
 * [Become An Oracle Analytics Cloud Professional (2025)](https://learn.oracle.com/ols/learning-path/become-an-oracle-analytics-cloud-professional-2025/118071/147801) - learn.oracle.com
 * [Oracle Analytics Server 📺](https://www.youtube.com/playlist?list=PLKCk3OyNwIzuy6PidScyoD7SZQa1ng4SL) - Oracle Learning 
+### User’s Guide for Oracle Analytics Desktop
+* [Get Started with Visualizations in Oracle Analytics ~3min](https://www.youtube.com/watch?v=lu0dYy1Z87c)
 
-## YouTube
+## YouTube 📺
 ### Oracle Analytics
 * [Oracle Analytics data visualization demo ~3min](https://www.youtube.com/watch?v=-G1LOoeTzPM)
 * [Oracle Analytics - AI Energy Consumption Analysis ~13min](https://www.youtube.com/watch?v=22wUJunH8eA)
