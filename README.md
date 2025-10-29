@@ -13,6 +13,7 @@
 
 ## YouTube
 * [Oracle Analytics data visualization demo ~3min](https://www.youtube.com/watch?v=-G1LOoeTzPM) - Oracle Analytics
+* [Oracle Analytics Server 2023 - Visualizing Data](https://www.youtube.com/playlist?list=PL6gBNP-Fr8KVzWmtFyWfDekHw5LVvTb6n) - Oracle Analytics | 19 videos
 
 ## Oracle Analytics
 * [Analytics Pricing](https://www.oracle.com/analytics/pricing/)
