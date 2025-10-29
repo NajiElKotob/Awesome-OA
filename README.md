@@ -16,6 +16,8 @@
 * [Oracle Analytics data visualization demo ~3min](https://www.youtube.com/watch?v=-G1LOoeTzPM)
 * [Oracle Analytics - AI Energy Consumption Analysis ~13min](https://www.youtube.com/watch?v=22wUJunH8eA)
 * [Oracle Analytics Server 2023 - Visualizing Data](https://www.youtube.com/playlist?list=PL6gBNP-Fr8KVzWmtFyWfDekHw5LVvTb6n) - 19 videos
+## Oracle Learning
+* [Configure Data Action Navigations in Oracle Analytics ~5min](https://www.youtube.com/watch?v=IqT0NBktk3U) 
 ## Community & Learning Channels
 * [Oracle Analytics Cloud](https://www.youtube.com/playlist?list=PLb4c9uHbujW3hTBwNksKzIeHCduLdLxz5) - Cristhian Javier Obregón Lazarte | 214 videos
 * [Modern Analytics Experience using Oracle Analytics Cloud by Gautam Pisharam ~1 hour](https://www.youtube.com/watch?v=eTqYXJ5rNqU) - OracleMania
