@@ -12,8 +12,11 @@
 * [Oracle Analytics Server 📺](https://www.youtube.com/playlist?list=PLKCk3OyNwIzuy6PidScyoD7SZQa1ng4SL) - Oracle Learning 
 
 ## YouTube
-* [Oracle Analytics data visualization demo ~3min](https://www.youtube.com/watch?v=-G1LOoeTzPM) - Oracle Analytics
-* [Oracle Analytics Server 2023 - Visualizing Data](https://www.youtube.com/playlist?list=PL6gBNP-Fr8KVzWmtFyWfDekHw5LVvTb6n) - Oracle Analytics | 19 videos
+### Oracle Analytics
+* [Oracle Analytics data visualization demo ~3min](https://www.youtube.com/watch?v=-G1LOoeTzPM)
+* [Oracle Analytics - AI Energy Consumption Analysis ~13min](https://www.youtube.com/watch?v=22wUJunH8eA)
+* [Oracle Analytics Server 2023 - Visualizing Data](https://www.youtube.com/playlist?list=PL6gBNP-Fr8KVzWmtFyWfDekHw5LVvTb6n) - 19 videos
+## Community & Learning Channels
 * [Oracle Analytics Cloud](https://www.youtube.com/playlist?list=PLb4c9uHbujW3hTBwNksKzIeHCduLdLxz5) - Cristhian Javier Obregón Lazarte | 214 videos
 
 ## Oracle Analytics
