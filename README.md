@@ -13,6 +13,7 @@
 * [Oracle Analytics Server 📺](https://www.youtube.com/playlist?list=PLKCk3OyNwIzuy6PidScyoD7SZQa1ng4SL) - Oracle Learning 
 ### User’s Guide for Oracle Analytics Desktop
 * [Get Started with Visualizations in Oracle Analytics ~3min](https://www.youtube.com/watch?v=lu0dYy1Z87c)
+* [Create a Visualization in Oracle Analytics Using a Dataset from an Oracle Database Connection ~2min](https://www.youtube.com/watch?v=0ZvLMnVxi4M)
 
 ## YouTube 📺
 ### Oracle Analytics
